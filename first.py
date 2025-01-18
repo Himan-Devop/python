@@ -1,1 +1,1 @@
-printf ( " python script V3 ")
+print ( " python script V6 ")
